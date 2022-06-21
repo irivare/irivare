@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @irivare
+- 🌎 I'm a Biomedical Engineer from Galicia (Spain)!
+- 👀 I’m interested in biomedical data processing, image processing and big data.
+- 🌱 I’m currently learning AI and ML.
+- 💞️ I’m looking to collaborate on any medical related MATLAB, C (C++) or Python algorithms!
+- 📫 How to reach me: iriapvar@gmail.com or www.linkedin.com/in/iria-pérez-varela-8971b51bb
